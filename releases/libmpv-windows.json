@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "engine": "mpv",
+  "line": "win32",
+  "downloadBase": "https://github.com/demoofbug/libmpv-win32-video-cmake/releases/download",
+  "updated": "2026-10-28T08:00:00Z",
+  "releases": {
+    "0.41.0": {
+      "tag": "v0.41.0+1",
+      "prerelease": false,
+      "digests": {
+        "mpv-dev-x86_64-v0.41.0+1.zip": "d55fe3c871c7d118c3107f3b8096bfad33e5a1f33ccc5a684c4368a173e1e265"
+      }
+    }
+  }
+}

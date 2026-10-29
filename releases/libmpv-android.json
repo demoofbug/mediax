@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "engine": "mpv",
+  "line": "android",
+  "downloadBase": "https://github.com/demoofbug/libmpv-android-video-build/releases/download",
+  "updated": "2026-10-28T08:00:00Z",
+  "releases": {
+    "0.41.0": {
+      "tag": "v0.41.0+1",
+      "prerelease": false,
+      "digests": {
+        "libmpv_v0.41.0+1_android-arm64-v8a-default.jar": "5eee75017b1b24eb16d854fea589e0874d77582e332e391f78dce437efe9d8d1",
+        "libmpv_v0.41.0+1_android-armeabi-v7a-default.jar": "d02d52c662a8a1e2d3c1bcda02378e5acc85914f25e56623a2810978586d7403",
+        "libmpv_v0.41.0+1_android-x86-default.jar": "d7da26b07a1ad6c41236b2b05e012b91d2d7bdcb28ceae0395fb647d566c27e8",
+        "libmpv_v0.41.0+1_android-x86_64-default.jar": "38f74407dd889e923ac19268db511aa76645addf52ab1e0bd51abd0caa8e6b22"
+      }
+    }
+  }
+}
