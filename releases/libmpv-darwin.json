@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "engine": "mpv",
+  "line": "darwin",
+  "downloadBase": "https://github.com/demoofbug/libmpv-darwin-build/releases/download",
+  "updated": "2026-10-28T08:00:00Z",
+  "releases": {
+    "0.41.0": {
+      "tag": "v0.41.0+1",
+      "prerelease": false,
+      "digests": {
+        "libmpv-libs_v0.41.0+1_macos-arm64-video-default.tar.gz": "cb2e9bce783b09dbba8a73ad061c3d8e9c02703d2c5e2b9444cfa432ef0b5a7b",
+        "libmpv-libs_v0.41.0+1_macos-amd64-video-default.tar.gz": "5a0dc72b8e8aa31d63a80ab799ef59307c942898d5be98e0348d1c170f6c76f2",
+        "libmpv-xcframeworks_v0.41.0+1_ios-universal-video-default.tar.gz": "ce658c6d1ec59eb96134cef75b8ffc57642a25da5c35235ddc993c8c0adaa311",
+        "libmpv-libs_v0.41.0+1_macos-arm64-audio-default.tar.gz": "ecb9d65d289f60a7f4fb2c7b3f42e3c86100f0fe632674247dbbe67e9e78e45f",
+        "libmpv-xcframeworks_v0.41.0+1_ios-universal-audio-default.tar.gz": "d9db67a495324ee138ecc3a725b573f21794a724416fcd953872ccd67a11dd48"
+      }
+    }
+  }
+}
